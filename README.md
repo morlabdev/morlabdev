@@ -14,7 +14,7 @@
 namespace Moreno/Labrador/Israel;
 
 class Skills extends FullStackDeveloper{
-    $frontend = ['HTML', 'CSS', 'Boostrap', 'JavaScript'];
+    $frontend = ['JavaScript', 'HTML', 'CSS', 'Boostrap'];
     $backend = ['PHP', 'Laravel'];
     $database = ['MySQL'];
     $tools = ['GIT', 'GitHub', 'Odoo'];
