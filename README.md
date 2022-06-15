@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/israelmorenolabrador" target="blank" style='margin-right:4px'>
     <img src="https://img.shields.io/badge/LinkedIn-Israel_Moreno-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="israelmorenolabrador"/>
   </a>
-  <a href="https://linkedin.com/in/israelmorenolabrador" target="blank" style='margin-right:4px'>
+  <a href="https://israelmoreno.xyz" target="blank" style='margin-right:4px'>
     <img src="https://img.shields.io/badge/Web-israelmoreno.xyz-B6FB44?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010" alt="israelmorenolabrador"/>
   </a>
   
