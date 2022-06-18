@@ -1,5 +1,5 @@
-## Hola, Soy Israel👋
-### Web Developer en Sevilla
+## Hola, Soy Israel Moreno 👋🏽
+### Web Developer
 
 Soy desarrollador web ubicado en Sevilla. Me apasiona la creación de sitios y aplicaciones web con experiencias de usuario intuitivas y dinámicas. Persona organizada, solucionador de problemas, empleado independiente con gran atención al detalle.
 
@@ -8,17 +8,6 @@ El área principal de mi experiencia es el desarrollo back-end, PHP, Laravel, ob
 También tengo experiencia full-stack developer con CMS populares de código abierto como WordPress.
 
 Interesado en todo lo relacionado con el desarrollo web y deseando trabajar en proyectos ambiciosos con personas positivas.
-
-## 👇¡Conecta conmigo!
-<p>
-  <a href="https://linkedin.com/in/israelmorenolabrador" target="blank" style='margin-right:4px'>
-    <img src="https://img.shields.io/badge/LinkedIn-Israel_Moreno-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="israelmorenolabrador"/>
-  </a>
-  <a href="https://israelmoreno.xyz" target="blank" style='margin-right:4px'>
-    <img src="https://img.shields.io/badge/Web-israelmoreno.xyz-B6FB44?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010" alt="israelmorenolabrador"/>
-  </a>
-  
-</p>
 
 ## Skills:
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
@@ -41,4 +30,10 @@ Interesado en todo lo relacionado con el desarrollo web y deseando trabajar en p
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010" alt="mysql"/>
 </a>
 
-
+## 👇¡Conecta conmigo!
+  <a href="https://linkedin.com/in/israelmorenolabrador" target="blank" style='margin-right:4px'>
+    <img src="https://img.shields.io/badge/LinkedIn-Israel_Moreno-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="israelmorenolabrador"/>
+  </a>
+  <a href="https://israelmoreno.xyz" target="blank" style='margin-right:4px'>
+    <img src="https://img.shields.io/badge/Web-israelmoreno.xyz-B6FB44?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010" alt="israelmorenolabrador"/>
+  </a>
