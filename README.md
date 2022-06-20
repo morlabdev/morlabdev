@@ -1,7 +1,7 @@
 ## Hola, Soy Israel Moreno 👋🏽
-### Web Developer
+### Web Developer de Sevilla.
 
-Soy desarrollador web ubicado en Sevilla. Me apasiona la creación de sitios y aplicaciones web con experiencias de usuario intuitivas y dinámicas. Persona organizada, solucionador de problemas, empleado independiente con gran atención al detalle.
+Me apasiona la creación de sitios y aplicaciones web con experiencias de usuario intuitivas y dinámicas. Persona organizada, solucionador de problemas, empleado independiente con gran atención al detalle.
 
 El área principal de mi experiencia es el desarrollo back-end, PHP, Laravel, obtenida sobre todo a través de proyectos propios, sin olvidarnos del desarrollo front-end, HTML, CSS, JavaScript.
 
